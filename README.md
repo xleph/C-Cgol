@@ -1,6 +1,5 @@
 # C-Cgol
-A non-interactional Conway's Game of Life written in C for the X11 window manager
-
+A non-interactional Conway's Game of Life written in C for the X11 window system
 # Getting Started
 There's really nothing special here. Just another game of Cgol.
 ## Oh, there is one thing:
