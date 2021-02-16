@@ -10,3 +10,7 @@ Example:
 `./cgol <<<random`
 
 produces a rondomly generated grid.
+# Compiling
+`cd src`
+
+`gcc -xc -lX11 w.x.c -o cgol`
