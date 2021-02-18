@@ -2,6 +2,7 @@
 A highly-interactional Conway's Game of Life written in C for the X11 window system
 
 Works on most Linux distributions!
+
 #Installing
 
 `mkdir gull`
