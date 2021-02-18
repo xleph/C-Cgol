@@ -1,16 +1,15 @@
 # C-Cgol
-A non-interactional Conway's Game of Life written in C for the X11 window system
+A highly-interactional Conway's Game of Life written in C for the X11 window system
 # Getting Started
-There's really nothing special here. Just another game of Cgol.
-## Oh, there is one thing:
-running the binary from your terminal (prefered way, unless you want to kill the simulation with htop lol) you may execute the script with random characters in stdin.
 
 Example:
 
-`./cgol <<<random`
+`./cgol`
 
 produces a rondomly generated grid.
 # Compiling
+`mkdir gull
+cd gull`
 `cd src`
 
 `gcc -xc -lX11 w.x.c -o cgol`
