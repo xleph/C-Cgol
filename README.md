@@ -56,6 +56,16 @@ pressing the "p" key will give you the power to summon any pattern you like!
 
 (press anywhere on the window OR select the "q" key to escape the pattern draw)
 
+press the "y" key to start the simulation
+
+While the simulation is running, some other operations that you have access to are:
+
+## foreground color change
+Pressing the "h" key will enable you to change the alive cell color to a hex value of your choosing
+
+![](gif/hextoggle.gif)
+
+
 # Some Example Usage
 
 # Todo
