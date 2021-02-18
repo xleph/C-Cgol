@@ -39,5 +39,13 @@ Or wherever you feel comfortable putting your binaries.
 
 `gcc -xc w.x.c -o cgol -lX11 -lpthread`
 
+# Usage
+When starting cgol you will first be prompted with "edit mode". Here you can set the domain of the grid (size), as well as other key elements such as:
+
+## random data:
+
+## paste-buffer:
+
+
 # Some Example Usage
 
