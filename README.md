@@ -44,11 +44,21 @@ When starting cgol you will first be prompted with "edit mode". Here you can set
 
 ## random data:
 
+pressing the "r" key will yield you the ability to summon random chunks on demand!
+
 ![](gif/rand.gif)
 
 ## paste-buffer:
 
+pressing the "p" key will give you the power to cummon any pattern you like!
+
 ![](gif/paste.gif)
 
+(press anywhere on the window OR select the "q" key to escape the pattern draw)
+
 # Some Example Usage
+
+# Todo
+
+Add support for macOS and maybe Windows
 
