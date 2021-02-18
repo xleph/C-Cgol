@@ -17,6 +17,8 @@ To start you will have two directories - bin and src. In bin/ you will find the 
 
 To run, go to your terminal and type:
 
+`cd bin`
+
 `./cgol`
 
 If you wish to install this system-wide you can always throw the binary in /usr/local/bin:
