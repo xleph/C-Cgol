@@ -3,7 +3,7 @@ A highly-interactional Conway's Game of Life written in C for the X11 window sys
 
 Works on most Linux distributions!
 
-#Installing
+# Installing
 
 `mkdir gull`
 
@@ -36,3 +36,6 @@ Or wherever you feel comfortable putting your binaries.
 `cd C-Cgol/src`
 
 `gcc -xc w.x.c -o cgol -lX11 -lpthread`
+
+# Some Example Usage
+
