@@ -58,6 +58,8 @@ pressing the "p" key will give you the power to summon any pattern you like!
 
 press the "y" key to start the simulation
 
+
+
 While the simulation is running, some other operations that you have access to are:
 
 ## foreground color change:
