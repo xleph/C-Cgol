@@ -44,8 +44,11 @@ When starting cgol you will first be prompted with "edit mode". Here you can set
 
 ## random data:
 
+![](gif/rand.gif)
+
 ## paste-buffer:
 
+![](gif/paste.gif)
 
 # Some Example Usage
 
