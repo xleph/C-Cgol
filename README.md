@@ -26,7 +26,8 @@ Or wherever you feel comfortable putting your binaries.
 
 # Compiling
 
-`mkdir gull
+`
+mkdir gull
 
 cd gull
 
