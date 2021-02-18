@@ -50,7 +50,7 @@ pressing the "r" key will yield you the ability to summon random chunks on deman
 
 ## paste-buffer:
 
-pressing the "p" key will give you the power to cummon any pattern you like!
+pressing the "p" key will give you the power to summon any pattern you like!
 
 ![](gif/paste.gif)
 
