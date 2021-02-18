@@ -60,5 +60,9 @@ pressing the "p" key will give you the power to summon any pattern you like!
 
 # Todo
 
+Set window background color to solid black on creation
+
+Reimplement in Wayland
+
 Add support for macOS and maybe Windows
 
