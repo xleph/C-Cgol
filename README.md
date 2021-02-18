@@ -54,17 +54,23 @@ pressing the "p" key will give you the power to summon any pattern you like!
 
 ![](gif/paste.gif)
 
-(press anywhere on the window OR select the "q" key to escape the pattern draw)
+(press anywhere on the window OR select the "q" key to escape the pattern draw; select "c" to paste from buffer)
 
 press the "y" key to start the simulation
 
 While the simulation is running, some other operations that you have access to are:
 
-## foreground color change
+## foreground color change:
 Pressing the "h" key will enable you to change the alive cell color to a hex value of your choosing
 
 ![](gif/hextoggle.gif)
 
+(press "y" to save hexcolor; any other key to escape the hex change)
+(i.e. 00ffff for aqua or 00ff00 for green; must be lowercase)
+
+## escaping the simulation:
+
+press "q" while in edit mode or while running the simulation to quit
 
 # Some Example Usage
 
